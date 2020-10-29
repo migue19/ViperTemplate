@@ -26,4 +26,3 @@ protocol ___VARIABLE_ModuleName___InteractorInputProtocol {
 /// INTERACTOR -> PRESENTER
 protocol ___VARIABLE_ModuleName___InteractorOutputProtocol {
 }
-
