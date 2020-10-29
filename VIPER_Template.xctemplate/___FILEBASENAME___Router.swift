@@ -22,10 +22,6 @@ class ___VARIABLE_ModuleName___Router {
         interactor.presenter = self.presenter
         self.window = window
     }
-    func showView() {
-        window?.rootViewController = UINavigationController(rootViewController: view)
-        window?.makeKeyAndVisible()
-    }
 }
 extension ___VARIABLE_ModuleName___Router: ___VARIABLE_ModuleName___RouterProtocol {
 }
