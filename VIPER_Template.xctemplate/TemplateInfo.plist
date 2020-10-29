@@ -20,20 +20,6 @@
 	<array>
 		<dict>
 			<key>Description</key>
-			<string>Prefijo</string>
-			<key>Identifier</key>
-			<string>PrefijoTest</string>
-			<key>Name</key>
-			<string>Nombre del Prefijo:</string>
-			<key>NotPersisted</key>
-			<true/>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>text</string>
-		</dict>
-		<dict>
-			<key>Description</key>
 			<string>El nombre del módulo a crear</string>
 			<key>Identifier</key>
 			<string>ModuleName</string>
