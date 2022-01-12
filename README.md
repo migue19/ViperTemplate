@@ -1,7 +1,9 @@
 # ViperTemplate
 
-Pasos para la instalacion:
+Steps for installation:
 
-git clone
+1. clone repository
+  git clone 
 
-run sh install_template.sh
+2. run 
+  sh install_template.sh
