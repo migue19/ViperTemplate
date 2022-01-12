@@ -16,6 +16,6 @@ class ___VARIABLE_ModuleName___VC: UIViewController {
         super.viewDidLoad()
     }
 }
-///Protocolo para recibir datos del presenter.
+/// Protocolo para recibir datos del presenter.
 extension ___VARIABLE_ModuleName___VC: ___VARIABLE_ModuleName___ViewProtocol {
 }
