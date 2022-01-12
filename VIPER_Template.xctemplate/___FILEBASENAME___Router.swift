@@ -7,7 +7,7 @@
 //
 
 class ___VARIABLE_ModuleName___Router {
-    private var view: ___VARIABLE_ModuleName___VC
+    var view: ___VARIABLE_ModuleName___VC
     private var presenter: ___VARIABLE_ModuleName___Presenter
     private var interactor: ___VARIABLE_ModuleName___Interactor
     init() {
