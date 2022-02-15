@@ -20,7 +20,7 @@ SOURCE_FILE="${FILE_TEMPLATES_PATH}/ViperTemplate"
 
 if [[ ! -e $SOURCE_FILE ]]; then
   echo "Cloning the directory "
-  git clone git@github.com:migue19/ViperTemplate.git
+  git clone https://github.com/migue19/ViperTemplate.git
 else
     cd "$SOURCE_FILE"
     echo "updating the directory "
