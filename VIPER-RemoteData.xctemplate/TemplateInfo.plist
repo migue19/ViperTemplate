@@ -9,7 +9,7 @@
 	<key>DefaultCompletionName</key>
 	<string>File</string>
 	<key>Description</key>
-	<string>Create VIPER files for a module with basic architecture.</string>
+	<string>Create VIPER-RemoteData files for a module with remote data management.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>Platforms</key>
@@ -42,6 +42,6 @@
 		</dict>
 	</array>
 	<key>Summary</key>
-	<string>Create VIPER files for a module with basic architecture.</string>
+	<string>Create VIPER-RemoteData files for a module with remote data management.</string>
 </dict>
 </plist>

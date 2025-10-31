@@ -6,6 +6,7 @@
 //  ___COPYRIGHT___
 //
 
+import Foundation
 import UIKit
 
 class ___VARIABLE_ModuleName___VC: UIViewController {
@@ -14,12 +15,12 @@ class ___VARIABLE_ModuleName___VC: UIViewController {
     var presenter: ___VARIABLE_ModuleName___PresenterProtocol?
 
     // MARK: Lifecycle
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        presenter?.viewDidLoad()
     }
 }
 
 extension ___VARIABLE_ModuleName___VC: ___VARIABLE_ModuleName___ViewProtocol {
-    // TODO: Implement view protocol methods
+    // TODO: implement view output methods
 }

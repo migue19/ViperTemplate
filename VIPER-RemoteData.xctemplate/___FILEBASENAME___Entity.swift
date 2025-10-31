@@ -9,5 +9,7 @@
 import Foundation
 
 struct ___VARIABLE_ModuleName___Entity {
-    // TODO: Add your entity properties here
+    // MARK: - Properties
+    
+    // TODO: Define your entity properties here
 }
