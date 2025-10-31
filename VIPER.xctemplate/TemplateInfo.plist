@@ -24,7 +24,7 @@
 			<key>Identifier</key>
 			<string>ModuleName</string>
 			<key>Name</key>
-			<string>Nuevo nombre del módulo:</string>
+			<string>Nombre del módulo:</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Required</key>
