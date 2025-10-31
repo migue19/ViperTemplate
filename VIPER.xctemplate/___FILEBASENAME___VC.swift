@@ -10,12 +10,17 @@ import Foundation
 import UIKit
 
 class ___VARIABLE_ModuleName___VC: UIViewController {
+
+    // MARK: Properties
     var presenter: ___VARIABLE_ModuleName___PresenterProtocol?
+
+    // MARK: Lifecycle
 
     override func viewDidLoad() {
         super.viewDidLoad()
     }
 }
-///Protocolo para recibir datos del presenter.
+
 extension ___VARIABLE_ModuleName___VC: ___VARIABLE_ModuleName___ViewProtocol {
+    // TODO: implement view output methods
 }

@@ -8,12 +8,21 @@
 
 import Foundation
 
-class ___VARIABLE_ModuleName___Presenter {
-    var view: ___VARIABLE_ModuleName___ViewProtocol?
+class ___VARIABLE_ModuleName___Presenter  {
+    
+    // MARK: Properties
+    weak var view: ___VARIABLE_ModuleName___ViewProtocol?
     var interactor: ___VARIABLE_ModuleName___InteractorInputProtocol?
     var router: ___VARIABLE_ModuleName___RouterProtocol?
+    
 }
+
 extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___PresenterProtocol {
+    // TODO: implement presenter methods
+    func viewDidLoad() {
+    }
 }
+
 extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___InteractorOutputProtocol {
+    // TODO: implement interactor output methods
 }
